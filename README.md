@@ -18,6 +18,10 @@ The quickest way to get in touch is going to be via Twitter, my handle is [@Mich
 
 ## Progress 
 
+<p align="center">
+ <img src="Timeline_banner.png?raw=true" alt="90DaysOfDevOps Logo" width="100%" height="100%" />
+</p>
+
 - [✔️] ♾️ 1 > [Introduction](Days/day01.md)
 
 ### What is and why do we use DevOps
